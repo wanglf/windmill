@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.289.1](https://github.com/windmill-labs/windmill/compare/v1.289.0...v1.289.1) (2024-03-11)
+
+
+### Bug Fixes
+
+* add include_query to all endpoints ([797c551](https://github.com/windmill-labs/windmill/commit/797c5515e192b79c8a24b12b6a5c9aca96aad73b))
+* **frontend:** add script history in the script menu on the homepage … ([#3388](https://github.com/windmill-labs/windmill/issues/3388)) ([16b1c33](https://github.com/windmill-labs/windmill/commit/16b1c33de5099b7cf128f7b2747cd06e4a54f321))
+* **frontend:** Disabled delete node + correctly update debug menu when nodes are deleted ([#3387](https://github.com/windmill-labs/windmill/issues/3387)) ([cc8e73c](https://github.com/windmill-labs/windmill/commit/cc8e73c77fa875485880d78d240bf26f48f5b419))
+* reset to default tag ([41a27d1](https://github.com/windmill-labs/windmill/commit/41a27d1c1372b1a241a39f321e0bd0a96e6d86b0))
+
 ## [1.289.0](https://github.com/windmill-labs/windmill/compare/v1.288.0...v1.289.0) (2024-03-09)
 
 
